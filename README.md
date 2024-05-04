@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Om babhulkar
 - 👀 I’m interested in Cloud Computing
 - 🌱 I’m currently learning Devops
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me ob.ombabhulkar@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Elephants can't jump.
 
 <!---
 ombabhulkar/ombabhulkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
