@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Om babhulkar
-- 👀 I’m interested in Cloud Computing
-- 🌱 I’m currently learning Devops
+- 👋 Hi, I’m Om Babhulkar
+- 👀 I’m interested in Cloud Computing.
+- 🌱 I’m currently learning Devops, Cloud Computing.
 - 📫 How to reach me ob.ombabhulkar@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Elephants can't jump.
